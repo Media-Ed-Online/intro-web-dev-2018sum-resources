@@ -1,26 +1,24 @@
-# My Intro-Web-Dev Homework Repo
+# My Intro-Web-Dev Resources (Summer 2018)
 
-## Justine Evans
+### About:
 
-I have decided to take this class because I have always been interested in how websites work, and how I can showcase my work on the internet.
+_Offered every term. Online Course._
+Students will gain necessary skills in this introduction to the fundamentals of website structure, content design and navigation. Areas of focus will be directory structure, visual design, user navigation, audio/video integration and domain management. This course is open to all university students and geared to non-majors.
 
-But what really is the internet? I was really amazed to learn that:
+**Instructor:** Justine Evans
 
-- While connectivity is the end-game, there's no "central control" or solitary operation with supreme power. The web is largely a people's technology.
-- October 29, 1969: The first message sent over the internet was simply "lo" - just two characters - before the system crashed. Today, internet traffic generates 52 gigabytes in just one second.
-- "It's estimated that every web page is an average of only 19 clicks away from every other web page." I cannot even comprehend this.
+**Slack Channel:** [UMMediaArts](https://ummediaarts.slack.com/)
 
+**E-mail:** [justine.evans@umontana.edu](mailto:justine.evans@umontana.edu)
+
+**In-Person Office Hours:** By Appointment
 
 ---
 
-### My Resources
+### Course Resources:
 
-Our textbook is _HTML and CSS_ by **John Duckett**.
+Course Website: [MART341](https://media-ed-online.github.io/intro-web-dev/)
 
-```
-Our textbook is _HTML and CSS_ by **John Duckett**.
-```
+Moodle Shell: [Summer 2018](https://moodle.umt.edu/course/view.php?id=21883)
 
-Visit the [course website](https://media-ed-online.github.io/intro-web-dev/) to learn more.
-
-![Image of course banner](http://bit.ly/2DIVG46)
+GitHub Issues: Click the tab above!
