@@ -7,11 +7,11 @@ Students will gain necessary skills in this introduction to the fundamentals of 
 
 **Instructor:** Justine Evans
 
-**Slack Channel:** [UMMediaArts](https://ummediaarts.slack.com/)
-
 **E-mail:** [justine.evans@umontana.edu](mailto:justine.evans@umontana.edu)
 
 **In-Person Office Hours:** By Appointment
+
+**Slack Channel:** [UMMediaArts](https://ummediaarts.slack.com/), Direct Message "Justine Evans"
 
 ---
 
