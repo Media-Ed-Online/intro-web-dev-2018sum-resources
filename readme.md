@@ -3,7 +3,7 @@
 ### About:
 
 _Offered every term. Online Course._
-Students will gain necessary skills in this introduction to the fundamentals of website structure, content design and navigation. Areas of focus will be directory structure, visual design, user navigation, audio/video integration and domain management. This course is open to all university students and geared to non-majors.
+Students will gain necessary skills in this introduction to the fundamentals of website structure, content design and navigation. Areas of focus will be directory structure, visual design, user navigation, audio/video integration and domain management. This course is open to all university students and geared to non-majors. 
 
 **Instructor:** Justine Evans
 
